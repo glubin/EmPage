@@ -1,0 +1,30 @@
+body {
+	background-color: #5F9EA0; 
+}
+
+.jumbotron {
+	background-color: #E0FFFF;
+}
+
+
+#middlePage {
+	 text-align: right
+}
+
+#memory {
+	text-align: right;
+	margin-bottom: -1%;
+}
+
+#niceMessage {
+	text-align: center;
+}
+#myFooter {
+	background-color: #E0FFFF;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 100px;
+  
+}
